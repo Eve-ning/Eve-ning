@@ -1,7 +1,9 @@
-name: Sponsors introduction
+name: Sponsors goal
 uses: lowlighter/metrics@latest
 with:
-  filename: metrics.plugin.sponsors.full.svg
-  token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+  filename: metrics.plugin.sponsors.svg
+  token: ${{ secrets.METRICS_TOKEN_PERSONAL }}
   base: ""
   plugin_sponsors: yes
+  plugin_sponsors_sections: goal, list
+  plugin_sponsors_past: yes
