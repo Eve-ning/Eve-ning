@@ -2,7 +2,7 @@
 
 ![](github-metrics.svg)
 
-![](metrics.plugin.achievements.compact.svg)
+<!-- ![](metrics.plugin.achievements.compact.svg) -->
 
 
 ![](metrics.plugin.sponsors.svg)
