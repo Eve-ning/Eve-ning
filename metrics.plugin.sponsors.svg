@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="199" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="181" class="">
     <defs>
         <style/>
     </defs>
@@ -15,8 +15,7 @@
                 </h2>
                 <div class="fill-width">
                     <section class="sponsors goal">
-                        <div class="markdown">This is likely going into Google Cloud Credits and GitHub, it's pretty cheap!
-This will enable me to try out server side programming, which I think is pretty neat.</div>
+                        <div class="markdown">These will go into my hobbies, that make me happy. However, don't feel obligated, I'm financially stable!</div>
                         <div class="center horizontal-wrap ">
                             <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="440" height="8">
                                 <mask id="project-bar">
@@ -29,7 +28,7 @@ This will enable me to try out server side programming, which I think is pretty 
                         <div class="goal-text">
                             <span>
                             </span>
-                            <span>$25 per month</span>
+                            <span>$1 per month</span>
                         </div>
                         <div class="row">
                         </div>
